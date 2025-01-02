@@ -13,15 +13,14 @@ MarkupSafe==3.0.2
 matplotlib==3.9.2
 missingno==0.5.2
 narwhals==1.14.1
-numpy==2.1.3
+numpy
 pandas==2.2.3
 patsy==1.0.1
 pillow==11.0.0
 plotly==5.22.0 
 prince==0.14.0
 pyparsing==3.2.0
-pytz==2024.2
-pywin32==307
+pytz
 referencing==0.35.1
 rpds-py==0.21.0
 scikit-learn==1.5.2
