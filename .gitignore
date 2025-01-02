@@ -1,5 +1,5 @@
 # Ignorer les fichiers volumineux
-notebooks/creditcard.csv
+# notebooks/creditcard.csv
 
-notebooks/*.csv
+# notebooks/*.csv
 
