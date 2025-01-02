@@ -1,0 +1,5 @@
+# Ignorer les fichiers volumineux
+notebooks/creditcard.csv
+
+notebooks/*.csv
+
